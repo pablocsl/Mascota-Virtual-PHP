@@ -1,19 +1,19 @@
-# Mascota Virtual PHP
+# Mascota Virtual (PHP)
 
 En este proyecto trataremos de crear a través del lenguaje PHP, una mascota virtual con la que podamos interactuar.
 Para ello, deberemos de desarrollar las clases necesarias para cada caso y sus respectivos métodos que ayudarán a interactuar con nosotros.
 
 Aclarar que este proyecto se va a dividir en dos fases : una primera en la cual se va a desarrollar toda la lógica de la mascota virtual sin muchas complicaciones y en terminal, mientras que en la segunda fase lo intentaremos llevar mas allá con una interfaz gráfica, una sesión de juego que guardará el estado de la mascota para cuando volvamos a entrar en ella y además de una interfaz algo más gráfica y amigable.
 
-- Primera Fase :
+- Primera Fase -- Tamagochi v1.0 :
     - Diagrama de clases
     - Creación de las clases
     - Desarrollo de los métodos
     - Implementación de los métodos
     - Terminal
-- Segunda Fase : 
+- Segunda Fase -- Tamagochi v2.0 : 
     - Sesión de juego
-    - Algún nuevo método
+    - Algún nuevo método (bañar)
     - Interfaz gráfica
 
 ## Diagrama de clases
