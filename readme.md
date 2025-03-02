@@ -5,13 +5,13 @@ Para ello, deberemos de desarrollar las clases necesarias para cada caso y sus r
 
 Aclarar que este proyecto se va a dividir en dos fases : una primera en la cual se va a desarrollar toda la lógica de la mascota virtual sin muchas complicaciones y en terminal, mientras que en la segunda fase lo intentaremos llevar mas allá con una interfaz gráfica, una sesión de juego que guardará el estado de la mascota para cuando volvamos a entrar en ella y además de una interfaz algo más gráfica y amigable.
 
-1. Fase : 
+Primera Fase : 
     - Diagrama de clases
     - Creación de las clases
     - Desarrollo de los métodos
     - Implementación de los métodos
     - Terminal
-2. Fase : 
+Segunda Fase : 
     - Sesión de juego
     - Algún nuevo método
     - Interfaz gráfica
