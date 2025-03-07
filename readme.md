@@ -20,6 +20,31 @@ Aclarar que este proyecto se va a dividir en dos fases : una primera en la cual 
 
 ![Diagrama de clases](./diagrama.png)
 
+## Estructura
+
+```
+└── 📁assets
+    └── 📁diagrama
+        └── diagrama.png
+    └── 📁forms
+        └── forms.php
+    └── 📁img
+        └── gato.png
+        └── perro.png
+    └── 📁styles
+        └── style.css
+└── 📁src
+    └── main.js
+└── classMascota.php
+└── index.html
+└── mascota.php
+└── nuevaPartida.php
+└── partida.php
+└── readme.md
+└── salir.php
+└── ultimaPartida.json
+```
+
 ## Requisitos
 
 * PHP 7.4.x o superior
