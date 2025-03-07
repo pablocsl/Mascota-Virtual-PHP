@@ -18,7 +18,7 @@ Aclarar que este proyecto se va a dividir en dos fases : una primera en la cual 
 
 ## Diagrama de clases
 
-![Diagrama de clases](.assets/diagrama/diagrama.png)
+![Diagrama de clases](assets/diagrama/diagrama.png)
 
 ## Estructura
 
