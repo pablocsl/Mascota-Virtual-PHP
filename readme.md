@@ -42,7 +42,6 @@ Aclarar que este proyecto se va a dividir en dos fases : una primera en la cual 
 └── partida.php
 └── readme.md
 └── salir.php
-└── ultimaPartida.json
 ```
 
 ## Requisitos
